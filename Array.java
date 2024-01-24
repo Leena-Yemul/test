@@ -6,7 +6,7 @@ public static void main(String args[])
 int a[]=new int[100];
 int i,no;
 Scanner sc=new Scanner(System.in);
-System.out.print("Enter number:");
+System.out.print("Enter nos:");
 no=sc.nextInt();
 System.out.print("Enter the array elements:"); 
 for(i=0;i<no;i++)
